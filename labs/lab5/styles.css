@@ -1,0 +1,63 @@
+body {
+  margin: 2em 5%;
+  font-family: 'Kavoon', "Times New Roman", Times, serif;
+  background-image: url("img/background.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #ff00aa; 
+}
+
+h1 {
+  color: #ff8fe1; 
+
+}
+
+h2 {
+  color: #ff9bdf;
+  font-family: 'Kavoon', "Times New Roman", Times, serif;
+}
+
+p {
+  color: #ff8bd3;
+}
+
+ul, li {
+  color: #ff9bf0; 
+}
+
+img {
+  width: 150px; 
+  height: auto;
+}
+section {
+  background: #6F4F74;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  border-radius: 8px;
+}
+
+nav a {
+  color: #3a003b;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #001d50;
+}
+
+
+a {
+  color: #F2EFC7;
+}
+
+
+footer a {
+  color: #2d2038;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #232c54;
+}
+
